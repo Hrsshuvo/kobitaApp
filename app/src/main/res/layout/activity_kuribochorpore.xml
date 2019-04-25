@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".kuribochorpore"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:layout_margin="5dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="কুড়ি বছর পরে "/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:background="#098">
+
+        </View>
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="আবার বছর কুড়ি পরে তার সাথে দেখা হয় যদি। "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="আবার বছর কুড়ি পরে- "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="হয়তো ধানের ছড়ার পাশে "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="কার্তিকের মাসে- "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="তখন সন্ধার কাক ঘরে ফেরে- তখন হলুদ নদী "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="নরম নরম হয় শর কাশ হোগলায়- মাঠের ভিতরে। "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" অথবা নাইকো ধান ক্ষেত আর; "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="  ব্যস্ততা নাইকো আর , "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" হাঁসের নীড়ের থেকে খড়  "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" পাখির নীড়ের থেকে খড়  "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" ছড়াতেছে ; মনির ঘরে রাত, শীত, আর শিশিরের জল।  "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" জীবন গিয়েছে চলে আমাদের কুড়ি কুড়ি বছরের পার- "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" তখন হঠাৎ যদি মেঠো পথে পাই আমি তোমারে আবার। "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" হয়তো এসেছে চাঁদ মাঝরাতে একরাশ পাতার পিছনে  "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" সরু সরু কালো কালো ডালপালা মুখে নিয়ে তার,  "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" শিরীষের আথবা জামের,  "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" ঝাউয়ের-আমের;  "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" কুড়ি বছরের পরে তখন তোমারে নাই মনে !  "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" জীবন গিয়েছে চলে আমাদের কুড়ি কুড়ি বছরের পার-   "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" তখন আবার যদি দেখা হয় তোমার-আমার!    "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" তখন হয়তো মাঠে হামাগুরি দিয়ে পেঁচা নামে-    "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="  বাবলার গলির অন্ধকারে   "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="  আশথের জানালার ফাঁকে   "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="  কোথায় লুকায় আপনাকে ।   "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="  চোখের পাতার মতো নেমে চুপি কোথায় চিলের ডানা থামে-    "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" সোনালি সোনালি চিল- শিশির শিকার করে নিয়ে গেছে তারে-  "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" কুড়ি বছরের পরে সেই কুয়াশায় পাই যদি হঠাৎ তোমারে  ।  "
+            />
+
+
+    </LinearLayout>
+
+</ScrollView>

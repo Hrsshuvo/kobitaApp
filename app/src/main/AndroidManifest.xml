@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hrsshuvo.newone">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".rakhalchele"></activity>
+        <activity android:name=".mamarbari" />
+        <activity
+            android:name=".habibb"
+            android:label="@string/title_activity_habibb"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".amarbari" />
+        <activity android:name=".kobor" />
+        <activity android:name=".fulneyavalonoy" />
+        <activity
+            android:name=".jdasnav"
+            android:label="জীবনানন্দ দাশ"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".rthakur"
+            android:label="রবীন্দ্রনাথ ঠাকুর"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".kazinav"
+            android:label="কাজী নজরুল ইসলাম"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".habib"
+            android:label="আহসান হাবীব"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".josim"
+            android:label="পল্লী কবি জসীম উদ্দীন"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".tumikikebol" />
+        <activity android:name=".abaresheche" />
+        <activity android:name=".megerporemrgh" />
+        <activity android:name=".duipaki" />
+        <activity android:name=".pramdut" />
+        <activity android:name=".ajibosonte" />
+        <activity android:name=".jekotha" />
+        <activity
+            android:name=".MainActivity"
+            android:label="শেষ্ঠ কবিদের কবিতা আবৃতি সহ">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".bidrohi"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".kk"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Robithakur"
+            android:label="রবীন্দ্রনার্থ ঠাকুর" />
+        <activity android:name=".sonartori" />
+        <activity android:name=".kobita2" />
+        <activity android:name=".kobita3" />
+        <activity android:name=".kobita4" />
+        <activity android:name=".kobita5" />
+        <activity android:name=".manus" />
+        <activity
+            android:name=".bonolotasen"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".kuribochorpore"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".gas"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".haowa"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".amijodi"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".haycil"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".bunohas"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".abarasibefire"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".banglarmukhamidekhechi"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".akashesattitara"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".jatri"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".TUMI"
+            android:label="জীবনানন্দ দাশ" />
+        <activity
+            android:name=".nabik"
+            android:label="জীবনানন্দ দাশ" />
+        <activity android:name=".jetenahidibi" />
+        <activity android:name=".bipodemorerokkhakoro" />
+    </application>
+
+</manifest>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TUMI"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="#000">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="#097"
+        android:layout_margin="12dp">
+
+        <TextView
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="তুমি"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:background="#141515">
+
+        </View>
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="নক্ষএের চলাফেরা ইসারয় চারদিকে উজ্জ্বল আকাশ;"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="বাতাসে নীলাভ হ‌‌‌‌‌য়ে আসে যেন প্রান্তরের ঘাস;"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="কাঁচপোকা ঘুমিয়েছে-গঙ্গাফড়িং সে-ও ঘুমে;"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="আম নিম হিজলের ব্যাপ্তিতে প'ড়ে আছে তুমি।"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="'মাটির অনেক নিচে চ'লে গেছ?কিংবা দুরে আকাশের পারে"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="তুমি আজ?কোন কথা ভবছ আধারে?"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="ঐ যে  ওখানে পায়রা একা ডাকে জমিরের বনে:"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="মনে হয় তুমি ঐ পাখি-তুমি ছাড়া সময়ের এ-উদ্ভাবনে"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text=" "
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="আমার এমন কাছে -আশ্বিনের এত বড় অকুল আকাশে"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="আর কাকে পাব এই সহজ গভীর অনায়াসে-'"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="বলতেই নিথিলের অন্ধকারে পাখি গেল উড়ে"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="প্রকৃতিস্থ প্রকৃতির মতো শব্দে-প্রেম অপ্রেম থেকে দুরে।"
+            />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="#000">
+
+        </View>
+
+    </LinearLayout>
+
+</ScrollView>

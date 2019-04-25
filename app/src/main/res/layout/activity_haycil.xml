@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".haycil"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="#7eea12">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="12dp"
+        android:background="#0f7be7">
+        <TextView
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="হায় চিল"/>
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:background="#7eea12">
+
+        </View>
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="হায় চিল, সোনালী ডানার চিল, এই ভিজে মেঘের দুপুরে"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="তুমি আর কেঁদোনাকো উড়ে উড়ে ধানসিড়ি নদীটির পাশে!"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="তোমার কান্নার সুরে বেতের ফলের মতো তার ম্লান চোখ মনে আসে।"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="পৃথিবীর রাঙ্গা রাজকন্যাদের মতো সে যে চলে গেছে রূপ নিয়ে দূরে;"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="আবার তাহারে কেন ডেকে আনো?"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="কে হায় হৃদয় খুঁড়ে বেদনা জাগাতে ভালোবাসে!"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="হায় চিল, সোনালী ডানার চিল, এই ভিজে মেঘের দুপুরে"
+            />
+        <TextView
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="তুমি আর কেঁদোনাকো উড়ে উড়ে ধানসিড়ি নদীটির পাশে!"
+            />
+
+
+    </LinearLayout>
+
+</ScrollView>

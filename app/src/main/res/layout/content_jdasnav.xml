@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".jdasnav"
+    tools:showIn="@layout/app_bar_jdasnav"
+    android:background="#0247F1">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp">
+
+        <Button
+            android:id="@+id/bonolota"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="বনলতা সেন"/>
+        <Button
+            android:id="@+id/kuri"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="কুড়ি বছর পরে "/>
+        <Button
+            android:id="@+id/gas"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ঘাস  "/>
+        <Button
+            android:id="@+id/haowa"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="হাওয়ার রাত "/>
+        <Button
+            android:id="@+id/ami"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="আমি যদি হতাম"/>
+        <Button
+            android:id="@+id/hay"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="হায় চিল"/>
+        <Button
+            android:id="@+id/buno"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="বুনো হাঁস"/>
+        <Button
+            android:id="@+id/abarasibo"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="আবার আসিব ফিরে"/>
+        <Button
+            android:id="@+id/banglarmukh"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="বাংলার মুখ আমি দেখিয়াছি"/>
+        <Button
+            android:id="@+id/akashesatti"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="আকাশে সাতটি তারা"/>
+        <Button
+            android:id="@+id/jatrii"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="যাত্রী"/>
+        <Button
+            android:id="@+id/tumii"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="তুমি"/>
+        <Button
+            android:id="@+id/nabik"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="নাবিক"/>
+    </LinearLayout>
+
+</ScrollView>

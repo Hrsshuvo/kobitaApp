@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".bidrohi"
+    android:layout_gravity="center">
+
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:text="বিদ্রোহী"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <View
+            android:background="#0ba997"
+            android:layout_width="match_parent"
+            android:layout_height="10dp"/>
+
+        <TextView
+            android:id="@+id/bol"
+            android:layout_marginRight="40sp"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="বল বীর- "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:onClick="b2"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="বল উন্নত মম শির! "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:onClick="b3"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="শির নেহারী' আমারি নতশির ওই শিখর হিমাদ্রীর!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:layout_marginRight="40sp"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="বল বীর- "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+<TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="বল মহাবিশ্বের মহাকাশ ফাড়ি'"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="চন্দ্র সূর্য্য গ্রহ তারা ছাড়ি'"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="ভূলোক দ্যূলোক গোলোক ভেদিয়া"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="খোদার আসন ‘আরশ’ ছেদিয়া,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="উঠিয়াছি চির-বিস্ময় আমি বিশ্ববিধাতৃর!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+<TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="মম ললাটে রুদ্র ভগবান জ্বলে রাজ-রাজটীকা দীপ্ত জয়শ্রীর!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginRight="40sp"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="বল বীর- "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি চির-উন্নত শির"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি চিরদুর্দম, দূর্বিনীত, নৃশংস,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="মহাপ্রলয়ের আমি নটরাজ, আমি সাইক্লোন, আমি ধ্বংস!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি মহাভয়, আমি অভিশাপ পৃথ্বীর,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginRight="40sp"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি দূর্বার, "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ভেঙে করি সব চুরমার!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি অনিয়ম উচ্ছৃঙ্খল,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি দ’লে যাই যত বন্ধন, যত নিয়ম কানুন শৃঙ্খল!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি মানি না কো কোন আইন,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ভরা-তরী করি ভরা-ডুবি, আমি টর্পেডো, আমি ভীম ভাসমান মাইন!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ধূর্জটী, আমি এলোকেশে ঝড় অকাল-বৈশাখীর"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি বিদ্রোহী, আমি বিদ্রোহী-সুত বিশ্ব-বিধাতৃর!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginRight="40sp"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="বল বীর- "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="চির-উন্নত মম শির!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ঝঞ্ঝা, আমি ঘূর্ণি,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি পথ-সম্মুখে যাহা পাই যাই চূর্ণি’।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি নৃত্য-পাগল ছন্দ,।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি আপনার তালে নেচে যাই, আমি মুক্ত জীবনানন্দ।।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+<TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি হাম্বীর, আমি ছায়ানট, আমি হিন্দোল,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি চল-চঞ্চল, ঠমকি’ ছমকি’"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="পথে যেতে যেতে চকিতে চমকি’"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="ফিং দিয়া দেই তিন দোল্‌;"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি চপোলা-চপোল হিন্দোল।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি তাই করি ভাই যখন চাহে এ মন যা’,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="করি শত্রুর সাথে গলাগলি, ধরি মৃত্যুর সাথে পাঞ্জা,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি উন্মাদ, আমি ঝঞ্ঝা!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি মহামারী, আমি ভীতি এ ধরীত্রির;"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি শাসন-ত্রাসন, সংহার আমি উষ্ণ চির অধীর।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginRight="40sp"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="বল বীর- "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি চির-উন্নত শির! আমি চির-দূরন্ত দুর্মদ"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি দূর্দম মম প্রাণের পেয়ালা হর্দম্‌ হ্যায় হর্দম্‌ ভরপুর্‌ মদ। আমি হোম-শিখা, আমি সাগ্নিক জমদগ্নি,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি যজ্ঞ, আমি পুরোহিত, আমি অগ্নি।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি সৃষ্টি, আমি ধ্বংস, আমি লোকালয়, আমি শ্মশান,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি অবসান, নিশাবসান। আমি ঈন্দ্রাণী-সুত হাতে চাঁদ ভালে সূর্য"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="মম এক হাতে বাঁকা বাঁশের বাঁশরী আর হাতে রণ তূর্য; আমি কৃষ্ণ-কন্ঠ, মন্থন-বিষ পিয়া ব্যথা বারিধির।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ব্যোমকেশ, ধরি বন্ধন-হারা ধারা গঙ্গোত্রীর।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:layout_marginRight="40sp"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="বল বীর- "
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="চির-উন্নত মম শির! আমি সন্ন্যাসী, সুর সৈনিক,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি যুবরাজ, মম রাজবেশ ম্লান গৈরিক।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি বেদুইন, আমি চেঙ্গিস,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি আপনারে ছাড়া করি না কাহারে কূর্ণিশ।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি বজ্র, আমি ঈষাণ-বিষানে ওঙ্কার,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ইস্রাফিলের শৃঙ্গার মহা-হুঙ্কার,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি পিনাক-পাণির ডমরু ত্রিশুল, ধর্মরাজের দন্ড,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি চক্র-মহাশঙ্খ, আমি প্রণব-নাদ প্রচন্ড!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ক্ষ্যাপা দুর্বাসা, বিশ্বামিত্র-শিষ্য,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি দাবানল-দাহ, দহন করিব বিশ্ব।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি প্রাণ-খোলা হাসি উল্লাস, -আমি সৃষ্টি-বৈরী মহাত্রাস"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি মহাপ্রলয়ের দ্বাদশ রবির রাহু-গ্রাস!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি কভু প্রশান্ত, -কভু অশান্ত দারুণ স্বেচ্ছাচারী,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি অরুণ খুনের তরুণ, আমি বিধির দর্পহারী!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি প্রভঞ্জনের উচ্ছাস, আমি বারিধির মহাকল্লোল,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি উজ্জ্বল, আমি প্রোজ্জ্বল,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি উচ্ছল জল-ছল-ছল, চল ঊর্মির হিন্দোল-দোল!- আমি বন্ধনহারা কুমারীর বেনী, তন্বী নয়নে বহ্নি,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ষোড়শীর হৃদি-সরসিজ প্রেম উদ্দাম, আমি ধন্যি! আমি উন্মন, মন-উদাসীর,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি বিধবার বুকে ক্রন্দন-শ্বাস, হা-হুতাশ আমি হুতাশীর।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি বঞ্চিত ব্যথা পথবাসী চির গৃহহারা যত পথিকের,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি অবমানিতের মরম-বেদনা, বিষ-জ্বালা, প্রিয় লাঞ্ছিত বুকে গতি ফের"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি অভিমানী চির ক্ষূব্ধ হিয়ার কাতরতা, ব্যাথা সূনিবিড়,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="চিত চুম্বন-চোর-কম্পন আমি থর থর থর প্রথম পরশ কুমারীর!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি গোপন-প্রিয়ার চকিত চাহনি, ছল ক’রে দেখা অনুখন,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি চপল মেয়ের ভালোবাসা, তাঁর কাঁকণ-চুড়ির কন্‌-কন্‌।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি চির শিশু, চির কিশোর,,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি যৌবন-ভীতু পল্লীবালার আঁচর কাচুলি নিচোর!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি উত্তর-বায়ু মলয়-অনিল উদাস পূরবী হাওয়া,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি পথিক-কবির গভীর রাগিণী, বেণু-বীণে গান গাওয়া।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি আকুল নিদাঘ-তিয়াসা, আমি রৌদ্র-রুদ্র রবি"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি মরু-নির্ঝর ঝর-ঝর, আমি শ্যামলিমা ছায়াছবি!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি তুরীয়ানন্দে ছুটে চলি, এ কি উন্মাদ আমি উন্মাদ!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি সহসা আমারে চিনেছি, আমার খুলিয়া গিয়াছে সব বাঁধ! আমি উত্থান, আমি পতন, আমি অচেতন চিতে চেতন,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি বিশ্বতোরণে বৈজয়ন্তী, মানব-বিজয়-কেতন।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="ছুটি ঝড়ের মতন করতালী দিয়া"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="স্বর্গ মর্ত্য-করতলে,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="তাজী বোর্‌রাক্‌ আর উচ্চৈঃশ্রবা বাহন আমার"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="হিম্মত-হ্রেষা হেঁকে চলে! আমি বসুধা-বক্ষে আগ্নেয়াদ্রী, বাড়ব বহ্নি, কালানল,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি পাতালে মাতাল, অগ্নি-পাথার-কলরোল-কল-কোলাহল!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি তড়িতে চড়িয়া, উড়ে চলি জোড় তুড়ি দিয়া দিয়া লম্ফ,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ত্রাস সঞ্চারি’ ভুবনে সহসা, সঞ্চারি ভূমিকম্প। ধরি বাসুকির ফণা জাপটি’-"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="ধরি স্বর্গীয় দূত জিব্রাইলের আগুনের পাখা সাপটি’। আমি দেবশিশু, আমি চঞ্চল,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ধৃষ্ট, আমি দাঁত দিয়া ছিঁড়ি বিশ্ব-মায়ের অঞ্চল!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি অর্ফিয়াসের বাঁশরী,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="মহা-সিন্ধু উতলা ঘুম্‌ঘুম্‌"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="ঘুম্‌ চুমু দিয়ে করি নিখিল বিশ্বে নিঝ্‌ঝুম"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="মম বাঁশরীর তানে পাশরি’।"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি শ্যামের হাতের বাঁশরী। আমি রুষে উঠে যবে ছুটি মহাকাশ ছাপিয়া,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="ভয়ে সপ্ত নরক হাবিয়া দোযখ নিভে নিভে যায় কাঁপিয়া!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি বিদ্রোহ-বাহী নিখিল অখিল ব্যাপিয়া! আমি শ্রাবণ-প্লাবন-বন্যা,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="কভু ধরনীরে করি বরণীয়া, কভু বিপুল ধ্বংস ধন্যা-"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ছিনিয়া আনিব বিষ্ণু-বক্ষ হইতে যুগল কন্যা!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি অন্যায়, আমি উল্কা, আমি শনি,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ধূমকেতু জ্বালা, বিষধর কাল-ফণী!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি ছিন্নমস্তা চন্ডী, আমি রণদা সর্বনাশী,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি জাহান্নামের আগুনে বসিয়া হাসি পুষ্পের হাসি! আমি মৃন্ময়, আমি চিন্ময়,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি অজর অমর অক্ষয়, আমি অব্যয়!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি মানব দানব দেবতার ভয়,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="বিশ্বের আমি চির-দুর্জয়,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="জগদীশ্বর-ঈশ্বর আমি পুরুষোত্তম সত্য,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি তাথিয়া তাথিয়া মাথিয়া ফিরি স্বর্গ-পাতাল মর্ত্য!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি উন্মাদ, আমি উন্মাদ!!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি সহসা আমারে চিনেছি, আজিকে আমার খুলিয়া গিয়াছে সব বাঁধ!! আমি পরশুরামের কঠোর কুঠার,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="নিঃক্ষত্রিয় করিব বিশ্ব, আনিব শান্তি শান্ত উদার!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি হল বলরাম স্কন্ধে,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি উপাড়ি' ফেলিব অধীন বিশ্ব অবহেলে নব সৃষ্টির মহানন্দে। মহা- বিদ্রোহী রণ-ক্লান্ত"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি সেই দিন হব শান্ত,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="যবে উৎপীড়িতের ক্রন্দন-রোল, আকাশে বাতাসে ধ্বনিবে না,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="অত্যাচারীর খড়গ কৃপাণ ভীম রণ-ভূমে রণিবে না -"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="বিদ্রোহী রণ-ক্লান্ত"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি আমি সেই দিন হব শান্ত!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি বিদ্রোহী ভৃগু, ভগবান বুকে এঁকে দিই পদ-চিহ্ন,"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি স্রষ্টা-সূদন, শোক-তাপ-হানা খেয়ালী বিধির বক্ষ করিব-ভিন্ন!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি চির-বিদ্রোহী বীর -"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+        <TextView
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textColor="#000"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:text="আমি বিশ্ব ছাড়ায়ে উঠিয়াছি একা চির-উন্নত শির!"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:ignore="RtlCompat" />
+
+
+
+    </LinearLayout>
+
+</ScrollView>

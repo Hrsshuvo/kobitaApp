@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".rthakur"
+    tools:showIn="@layout/app_bar_rthakur"
+    android:background="#0247F1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="12dp">
+
+        <Button
+            android:id="@+id/sonar"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="সোনার তরী"/>
+        <Button
+            android:id="@+id/jetenahi"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="যেতে নাহি দিব"/>
+        <Button
+            android:id="@+id/bipodemore"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="বিপদে মোরে রক্ষা করো"/>
+        <Button
+            android:id="@+id/jeota"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="যে-কথা বলিতে চাই "/>
+        <Button
+            android:id="@+id/aji"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="আজি বসন্ত জাগ্রত দ্বারে"/>
+        <Button
+            android:id="@+id/pramdud"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="প্রেমের দূতকে পাঠাবে নাথ কবে"/>
+        <Button
+            android:id="@+id/duipaki"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="দুই পাখি"/>
+        <Button
+            android:id="@+id/megerpore"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="মেঘের পরে মেঘ জমেছে"/>
+        <Button
+            android:id="@+id/abareseche"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="আবার এসেছে আষাঢ় আকাশ ছেয়ে"/>
+        <Button
+            android:id="@+id/tumikikebol"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="তুমি কি কেবল ছবি শুধু পটে লিখা"/>
+    </LinearLayout>
+
+</ScrollView>

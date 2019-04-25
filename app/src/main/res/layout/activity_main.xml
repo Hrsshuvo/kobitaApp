@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="500dp"
+    android:layout_gravity="center"
+    android:layout_margin="10dp"
+    android:background="#029722"
+    tools:context="com.hrsshuvo.newone.MainActivity">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="190dp"
+            android:layout_margin="5dp"
+            android:layout_marginTop="30dp"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/kazin"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="104dp"
+                    android:layout_height="99dp"
+                    android:layout_gravity="center"
+                    android:background="@mipmap/kn_launcher_round"
+                    android:foregroundGravity="center" />
+
+
+
+                <TextView
+                    android:onClick="kazi"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="3dp"
+                    android:gravity="center"
+                    android:text="কাজী নজরুল ইসলাম"
+                    android:textColor="#288311" />
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="190dp"
+            android:layout_margin="5dp"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            android:foregroundGravity="center">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                   android:id="@+id/rob"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="104dp"
+                    android:layout_height="99dp"
+                    android:layout_gravity="center"
+                    android:background="@mipmap/rt_launcher_round"
+                    android:foregroundGravity="center" />
+
+                <TextView
+                    android:onClick="rob"
+                    android:layout_marginTop="3dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="রবীন্দ্রনাথ ঠাকুর"
+                    android:textColor="#288311" />
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="180dp"
+            android:layout_marginRight="20dp"
+            android:gravity="center">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="190dp"
+            android:layout_margin="5dp"
+            android:layout_marginTop="30dp"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/jdas"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="104dp"
+                    android:layout_height="99dp"
+                    android:layout_gravity="center"
+                    android:background="@mipmap/jd_launcher"
+                    android:foregroundGravity="center" />
+
+                <TextView
+                    android:layout_marginTop="3dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="জীবনানন্দ দাশ"
+                    android:textColor="#288311" />
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="150dp"
+                android:layout_height="190dp"
+                android:layout_margin="5dp"
+                android:clickable="true"
+                android:foreground="?attr/selectableItemBackground"
+                android:foregroundGravity="center">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="10dp"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/josim"
+                        android:layout_marginTop="20dp"
+                        android:layout_width="104dp"
+                        android:layout_height="99dp"
+                        android:layout_gravity="center"
+                        android:background="@mipmap/ju_launcher_round"
+                        android:foregroundGravity="center" />
+
+                    <TextView
+                        android:layout_marginTop="3dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:gravity="center"
+                        android:text="পল্লী কবি জসীম উদ্দীন"
+                        android:textColor="#288311" />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="340dp"
+        android:gravity="center">
+
+        <android.support.v7.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="190dp"
+            android:layout_margin="5dp"
+            android:layout_marginTop="30dp"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/habib"
+                    android:layout_marginTop="20dp"
+                    android:layout_width="104dp"
+                    android:layout_height="99dp"
+                    android:layout_gravity="center"
+                    android:foregroundGravity="center"
+                    android:background="@mipmap/ah_launcher_round" />
+
+                <TextView
+                    android:layout_marginTop="3dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="আহসান হাবীব"
+                    android:textColor="#288311" />
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView
+            android:layout_width="150dp"
+            android:layout_height="190dp"
+            android:layout_margin="5dp"
+            android:clickable="true"
+            android:foreground="?attr/selectableItemBackground"
+            android:foregroundGravity="center">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_marginTop="20dp"
+                    android:layout_width="104dp"
+                    android:layout_height="99dp"
+                    android:layout_gravity="center"
+                    android:foregroundGravity="center"
+                    android:background="@mipmap/fa_launcher_round" />
+
+                <TextView
+                    android:layout_marginTop="3dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:text="ফররুখ আহমদ"
+                    android:textColor="#288311" />
+
+            </LinearLayout>
+
+        </android.support.v7.widget.CardView>
+
+    </LinearLayout>
+    <TextView
+        android:textStyle="bold"
+        android:layout_marginTop="480dp"
+        android:textColor="#000"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="app create by: HRS SHUVO"/>
+
+</RelativeLayout>

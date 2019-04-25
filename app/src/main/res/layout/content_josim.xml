@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".josim"
+    tools:showIn="@layout/app_bar_josim"
+    android:background="#0247F1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="12dp"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/kobor"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="কবর"/>
+        <Button
+            android:id="@+id/fulnewavalonaa"
+            android:layout_marginTop="05dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="ফুল নেয়া ভাল নয়"/>
+        <Button
+            android:id="@+id/amarbari"
+            android:layout_marginTop="05dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="আমার বাড়ি"/>
+        <Button
+            android:onClick="mamarbari"
+            android:layout_marginTop="05dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="মামার বাড়ি"/>
+        <Button
+            android:onClick="rakhalchele"
+            android:layout_marginTop="05dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="রাখাল ছেলে"/>
+        <Button
+            android:id="@+id/l"
+            android:layout_marginTop="05dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text=""/>
+    </LinearLayout>
+
+</ScrollView>
